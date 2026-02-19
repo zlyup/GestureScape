@@ -21,8 +21,8 @@ GestureScape（中文名：瞬境）是一个将古典山水美学与现代交�
 - 保留原作者的创意贡献
 
 ## 🔗 项目链接
-- **在线演示**：https://laddzhao.github.io/GestureScape/
-- **GitHub仓库**：https://github.com/laddzhao/GestureScape
+- **在线演示**：https://zlyup.github.io/GestureScape/
+- **GitHub仓库**：https://github.com/zlyup/GestureScape
 - **原始创意**：基于 [sihan9119](https://github.com/sihan9119) 的初始概念
 摸鱼用gemini搓的赛博千里江山图和赛博昙花
 
